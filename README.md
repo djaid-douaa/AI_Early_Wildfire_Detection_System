@@ -4,8 +4,6 @@
 
 A two-layer system that detects forest fires by fusing three data sources, then predicts how fast and how far a detected fire will spread over the next two hours. Alerts are graded LOW / MEDIUM / HIGH / CRITICAL.
 
-![Evaluation dashboard](wildfire_dashboard.png)
-
 ## How it works
 
 | Stage | What it does |
